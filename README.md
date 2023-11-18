@@ -26,7 +26,7 @@ A simple web application to generate secure passwords based on user preferences.
 
 ## Preview
 
-![Password Generator Preview](path-to-preview-image.png)
+![Password Generator Preview](![PassWord Popper Deployed](Assets/Screenshot1.png))
 
 ## Author
 
